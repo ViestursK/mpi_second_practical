@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SecondPractical_ViestursK</string>
+    <string name="first_activity_title">1-st Activity</string>
+    <string name="go_to_second_activity">Go to 2-nd</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="group_dialog_title">No.1 Group’s Dialog</string>
+    <string name="dialog_positive_button">OK</string>
+    <string name="dialog_negative_button">Close</string>
+    <string name="dialog_closed_message">You closed the dialog</string>
+    <string name="dialog_ok_message">You clicked OK</string>
+    <string name="back">Back</string>
+    <string-array name="members_array">
+        <item>Viesturs Kalcenaus</item>
+        <item>Valters Kalcenaus</item>
+        <item>Rūdis Andersons - Paņēma gap year :(</item>
+    </string-array>
+</resources>
